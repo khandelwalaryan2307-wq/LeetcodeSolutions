@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/khandelwalaryan2307-wq/LeetcodeSolutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/khandelwalaryan2307-wq/LeetcodeSolutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/khandelwalaryan2307-wq/LeetcodeSolutions/tree/master/0217-contains-duplicate) |
+| [0739-daily-temperatures](https://github.com/khandelwalaryan2307-wq/LeetcodeSolutions/tree/master/0739-daily-temperatures) |
 ## Two Pointers
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/khandelwalaryan2307-wq/LeetcodeSolutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0739-daily-temperatures](https://github.com/khandelwalaryan2307-wq/LeetcodeSolutions/tree/master/0739-daily-temperatures) |
 ## Sorting
 |  |
 | ------- |
@@ -59,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/khandelwalaryan2307-wq/LeetcodeSolutions/tree/master/0169-majority-element) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/khandelwalaryan2307-wq/LeetcodeSolutions/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
