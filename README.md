@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/khandelwalaryan2307-wq/LeetcodeSolutions/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/khandelwalaryan2307-wq/LeetcodeSolutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0042-trapping-rain-water](https://github.com/khandelwalaryan2307-wq/LeetcodeSolutions/tree/master/0042-trapping-rain-water) |
 | [0073-set-matrix-zeroes](https://github.com/khandelwalaryan2307-wq/LeetcodeSolutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/khandelwalaryan2307-wq/LeetcodeSolutions/tree/master/0075-sort-colors) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/khandelwalaryan2307-wq/LeetcodeSolutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/khandelwalaryan2307-wq/LeetcodeSolutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Math
 |  |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/khandelwalaryan2307-wq/LeetcodeSolutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/khandelwalaryan2307-wq/LeetcodeSolutions/tree/master/0169-majority-element) |
 ## Counting
 |  |
