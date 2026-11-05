@@ -16,17 +16,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/khandelwalaryan2307-wq/LeetcodeSolutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/khandelwalaryan2307-wq/LeetcodeSolutions/tree/master/0217-contains-duplicate) |
 | [0739-daily-temperatures](https://github.com/khandelwalaryan2307-wq/LeetcodeSolutions/tree/master/0739-daily-temperatures) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/khandelwalaryan2307-wq/LeetcodeSolutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Two Pointers
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/khandelwalaryan2307-wq/LeetcodeSolutions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/khandelwalaryan2307-wq/LeetcodeSolutions/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/khandelwalaryan2307-wq/LeetcodeSolutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/khandelwalaryan2307-wq/LeetcodeSolutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/khandelwalaryan2307-wq/LeetcodeSolutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/khandelwalaryan2307-wq/LeetcodeSolutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/khandelwalaryan2307-wq/LeetcodeSolutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Math
 |  |
 | ------- |
@@ -45,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/khandelwalaryan2307-wq/LeetcodeSolutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/khandelwalaryan2307-wq/LeetcodeSolutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/khandelwalaryan2307-wq/LeetcodeSolutions/tree/master/0217-contains-duplicate) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/khandelwalaryan2307-wq/LeetcodeSolutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Quicksort
 |  |
 | ------- |
