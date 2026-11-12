@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/khandelwalaryan2307-wq/LeetcodeSolutions/tree/master/0217-contains-duplicate) |
 | [0739-daily-temperatures](https://github.com/khandelwalaryan2307-wq/LeetcodeSolutions/tree/master/0739-daily-temperatures) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/khandelwalaryan2307-wq/LeetcodeSolutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/khandelwalaryan2307-wq/LeetcodeSolutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 ## Two Pointers
 |  |
 | ------- |
