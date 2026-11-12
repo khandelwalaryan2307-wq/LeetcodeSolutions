@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/khandelwalaryan2307-wq/LeetcodeSolutions/tree/master/0743-network-delay-time) |
 | [0938-range-sum-of-bst](https://github.com/khandelwalaryan2307-wq/LeetcodeSolutions/tree/master/0938-range-sum-of-bst) |
 ## Binary Search Tree
 |  |
@@ -115,4 +116,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0938-range-sum-of-bst](https://github.com/khandelwalaryan2307-wq/LeetcodeSolutions/tree/master/0938-range-sum-of-bst) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/khandelwalaryan2307-wq/LeetcodeSolutions/tree/master/0743-network-delay-time) |
+## Graph Theory
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/khandelwalaryan2307-wq/LeetcodeSolutions/tree/master/0743-network-delay-time) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/khandelwalaryan2307-wq/LeetcodeSolutions/tree/master/0743-network-delay-time) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/khandelwalaryan2307-wq/LeetcodeSolutions/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/khandelwalaryan2307-wq/LeetcodeSolutions/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
