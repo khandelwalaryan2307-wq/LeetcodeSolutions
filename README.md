@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/khandelwalaryan2307-wq/LeetcodeSolutions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/khandelwalaryan2307-wq/LeetcodeSolutions/tree/master/0075-sort-colors) |
+| [0143-reorder-list](https://github.com/khandelwalaryan2307-wq/LeetcodeSolutions/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/khandelwalaryan2307-wq/LeetcodeSolutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/khandelwalaryan2307-wq/LeetcodeSolutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Binary Search
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/khandelwalaryan2307-wq/LeetcodeSolutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/khandelwalaryan2307-wq/LeetcodeSolutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/khandelwalaryan2307-wq/LeetcodeSolutions/tree/master/0085-maximal-rectangle) |
+| [0143-reorder-list](https://github.com/khandelwalaryan2307-wq/LeetcodeSolutions/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/khandelwalaryan2307-wq/LeetcodeSolutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0739-daily-temperatures](https://github.com/khandelwalaryan2307-wq/LeetcodeSolutions/tree/master/0739-daily-temperatures) |
 ## Sorting
@@ -146,4 +148,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/khandelwalaryan2307-wq/LeetcodeSolutions/tree/master/0416-partition-equal-subset-sum) |
+## Linked List
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/khandelwalaryan2307-wq/LeetcodeSolutions/tree/master/0143-reorder-list) |
+## Recursion
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/khandelwalaryan2307-wq/LeetcodeSolutions/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
