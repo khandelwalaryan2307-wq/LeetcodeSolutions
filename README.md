@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/khandelwalaryan2307-wq/LeetcodeSolutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/khandelwalaryan2307-wq/LeetcodeSolutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0036-valid-sudoku](https://github.com/khandelwalaryan2307-wq/LeetcodeSolutions/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/khandelwalaryan2307-wq/LeetcodeSolutions/tree/master/0042-trapping-rain-water) |
 | [0073-set-matrix-zeroes](https://github.com/khandelwalaryan2307-wq/LeetcodeSolutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/khandelwalaryan2307-wq/LeetcodeSolutions/tree/master/0075-sort-colors) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/khandelwalaryan2307-wq/LeetcodeSolutions/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/khandelwalaryan2307-wq/LeetcodeSolutions/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/khandelwalaryan2307-wq/LeetcodeSolutions/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/khandelwalaryan2307-wq/LeetcodeSolutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/khandelwalaryan2307-wq/LeetcodeSolutions/tree/master/0217-contains-duplicate) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/khandelwalaryan2307-wq/LeetcodeSolutions/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/khandelwalaryan2307-wq/LeetcodeSolutions/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/khandelwalaryan2307-wq/LeetcodeSolutions/tree/master/0085-maximal-rectangle) |
 ## Range Minimum/Maximum Query
