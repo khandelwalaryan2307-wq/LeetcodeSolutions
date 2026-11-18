@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/khandelwalaryan2307-wq/LeetcodeSolutions/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/khandelwalaryan2307-wq/LeetcodeSolutions/tree/master/0085-maximal-rectangle) |
 | [0416-partition-equal-subset-sum](https://github.com/khandelwalaryan2307-wq/LeetcodeSolutions/tree/master/0416-partition-equal-subset-sum) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/khandelwalaryan2307-wq/LeetcodeSolutions/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Matrix
 |  |
 | ------- |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/khandelwalaryan2307-wq/LeetcodeSolutions/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/khandelwalaryan2307-wq/LeetcodeSolutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0938-range-sum-of-bst](https://github.com/khandelwalaryan2307-wq/LeetcodeSolutions/tree/master/0938-range-sum-of-bst) |
 ## Binary Search Tree
 |  |
@@ -133,18 +135,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/khandelwalaryan2307-wq/LeetcodeSolutions/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/khandelwalaryan2307-wq/LeetcodeSolutions/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Graph Theory
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/khandelwalaryan2307-wq/LeetcodeSolutions/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/khandelwalaryan2307-wq/LeetcodeSolutions/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/khandelwalaryan2307-wq/LeetcodeSolutions/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/khandelwalaryan2307-wq/LeetcodeSolutions/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Shortest Path
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/khandelwalaryan2307-wq/LeetcodeSolutions/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/khandelwalaryan2307-wq/LeetcodeSolutions/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
