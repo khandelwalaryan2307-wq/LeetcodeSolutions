@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/khandelwalaryan2307-wq/LeetcodeSolutions/tree/master/0050-powx-n) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/khandelwalaryan2307-wq/LeetcodeSolutions/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Stack
 |  |
@@ -177,5 +178,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/khandelwalaryan2307-wq/LeetcodeSolutions/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/khandelwalaryan2307-wq/LeetcodeSolutions/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
