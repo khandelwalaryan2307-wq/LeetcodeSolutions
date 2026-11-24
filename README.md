@@ -180,4 +180,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/khandelwalaryan2307-wq/LeetcodeSolutions/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/khandelwalaryan2307-wq/LeetcodeSolutions/tree/master/0143-reorder-list) |
+## String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/khandelwalaryan2307-wq/LeetcodeSolutions/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->
