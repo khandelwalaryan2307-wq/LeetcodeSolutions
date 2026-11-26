@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/khandelwalaryan2307-wq/LeetcodeSolutions/tree/master/0050-powx-n) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/khandelwalaryan2307-wq/LeetcodeSolutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [3360-stone-removal-game](https://github.com/khandelwalaryan2307-wq/LeetcodeSolutions/tree/master/3360-stone-removal-game) |
 ## Stack
 |  |
 | ------- |
@@ -189,4 +190,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/khandelwalaryan2307-wq/LeetcodeSolutions/tree/master/1480-running-sum-of-1d-array) |
+## Simulation
+|  |
+| ------- |
+| [3360-stone-removal-game](https://github.com/khandelwalaryan2307-wq/LeetcodeSolutions/tree/master/3360-stone-removal-game) |
 <!---LeetCode Topics End-->
