@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/khandelwalaryan2307-wq/LeetcodeSolutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/khandelwalaryan2307-wq/LeetcodeSolutions/tree/master/0217-contains-duplicate) |
 | [0416-partition-equal-subset-sum](https://github.com/khandelwalaryan2307-wq/LeetcodeSolutions/tree/master/0416-partition-equal-subset-sum) |
+| [0628-maximum-product-of-three-numbers](https://github.com/khandelwalaryan2307-wq/LeetcodeSolutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0739-daily-temperatures](https://github.com/khandelwalaryan2307-wq/LeetcodeSolutions/tree/master/0739-daily-temperatures) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/khandelwalaryan2307-wq/LeetcodeSolutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1480-running-sum-of-1d-array](https://github.com/khandelwalaryan2307-wq/LeetcodeSolutions/tree/master/1480-running-sum-of-1d-array) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/khandelwalaryan2307-wq/LeetcodeSolutions/tree/master/0050-powx-n) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/khandelwalaryan2307-wq/LeetcodeSolutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0628-maximum-product-of-three-numbers](https://github.com/khandelwalaryan2307-wq/LeetcodeSolutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [3360-stone-removal-game](https://github.com/khandelwalaryan2307-wq/LeetcodeSolutions/tree/master/3360-stone-removal-game) |
 ## Stack
 |  |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/khandelwalaryan2307-wq/LeetcodeSolutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/khandelwalaryan2307-wq/LeetcodeSolutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/khandelwalaryan2307-wq/LeetcodeSolutions/tree/master/0217-contains-duplicate) |
+| [0628-maximum-product-of-three-numbers](https://github.com/khandelwalaryan2307-wq/LeetcodeSolutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/khandelwalaryan2307-wq/LeetcodeSolutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Quicksort
 |  |
